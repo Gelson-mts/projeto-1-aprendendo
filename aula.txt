@@ -1,0 +1,30 @@
+lement.style {
+}
+embed {
+    left: 0;
+    position: fixed;
+    top: 0;
+}
+
+body, embed, html {
+    height: 100%;
+    margin: 0;
+    width: 100%;
+}
+
+certificado git		
+
+element.style {
+}
+embed {
+    left: 0;
+    position: fixed;
+    top: 0;
+}
+body, embed, html {
+    height: 100%;
+    margin: 0;
+    width: 100%;
+}
+
+
